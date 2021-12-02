@@ -16,4 +16,4 @@ data:
         properties:
           packageName:
             type: string
-slug: type-product-os-t-type-source-product-os-type-source-template
+slug: type-product-os-t-type-source-product-os-t-node-module
