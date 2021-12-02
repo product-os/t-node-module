@@ -1,10 +1,8 @@
 type: type-product-os-t-type-source@1.2.1
-name: Node Module # 👈 change this
+name: Node Module
 version: 1.0.5
 data:
-  # adding this line to a contract enables Transformers to pick them up
   $transformer: {}
-  # this is a JSONSchema describing instances of this type. You can constraint `data` as well as top level fields like `name`
   schema:
     type: object
     required: [ 'data' ]
