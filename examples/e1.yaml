@@ -1,0 +1,3 @@
+type: type-product-os-type-source-template@1.0.0
+data:
+  myProp: blub
