@@ -1,4 +1,4 @@
 # Node module type
-Template repository for creating a new type for use with Transformers
+This type represents a built `t-node-module-source`. Generally this type is created after running the source through the `t-npm-builder`.
 
-To create a new repo from this template [click here](https://github.com/organizations/product-os/repositories/new). (For some reason templates only show up when clicking "new repo" within the same org although they can then be used to create a repo in any org you have access to...)
+The difference is that this type will expect to have created a `/build` folder in the `t-node-module-source` root folder through backflow.
