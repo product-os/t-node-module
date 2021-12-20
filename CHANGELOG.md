@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file. See [standa
 # v1.0.3
 ## (2021-11-29)
 
+# v1.0.8
+## (2021-12-20)
+
+* Actually commit the readme [Dan Goodman]
+* Fixed readme [Dan Goodman]
+
 # v1.0.7
 ## (2021-12-02)
 
